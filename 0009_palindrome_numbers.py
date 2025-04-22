@@ -1,6 +1,3 @@
-from math import log, ceil
-
-
 class Solution:
     def isPalindrome(self, x: int) -> bool:
 
